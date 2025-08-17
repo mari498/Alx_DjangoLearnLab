@@ -5,17 +5,10 @@
 __pycache__/
 db.sqlite3
 media
-
-# If you use venv
 venv/
 env/
 .venv/
-
-# VSCode / PyCharm
 .vscode/
 .idea/
-
-# System
 .DS_Store
 Thumbs.db
-
